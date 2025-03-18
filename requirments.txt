@@ -1,0 +1,3 @@
+strreamlit
+pandas
+time
